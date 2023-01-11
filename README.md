@@ -20,6 +20,7 @@ Program to find the gcd of two number using function.
 Developed by: Mounesh P
 RegisterNumber:  22005773
 */
+```
 ```python
 def gcd():
     n1,n2=int(input()),int(input())
